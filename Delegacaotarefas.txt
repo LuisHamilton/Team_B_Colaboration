@@ -1,0 +1,11 @@
+printar o nome do app - Wesley
+
+conversao ASCII para decimal -  Lucas
+
+conversao Decimal  ASCII -  Matheus
+
+pegar 2 inputs Matheus
+
+somar - Guti
+
+printar soma - Raphael
