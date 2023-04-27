@@ -1,3 +1,4 @@
+Soma (Rafa)
 Estamos na posição 0
 Passando 3 casas para direita para acessar a posição 3 (primeiro número inteiro)
 >>>
