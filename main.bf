@@ -61,3 +61,5 @@ comeco implementacao conversao decimal para ascii
 fim decimal ascii
 
 
+Para printar a soma dos numeros depois da conversão
+>>>>>>.
